@@ -27,7 +27,7 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="3.0.0" />
     <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="3.0.0" />
     <PackageReference Include="NetEscapades.AspNetCore.SecurityHeaders" Version="0.8.0" />
-    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
     <!--Seq-->
     <PackageReference Include="Serilog" Version="2.7.2-dev-01024" />
     <PackageReference Include="Serilog.Sinks.Console" Version="3.1.2-dev-00777" />
