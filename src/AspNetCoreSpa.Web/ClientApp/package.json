@@ -52,7 +52,7 @@
     "date-fns": "1.29.0",
     "flatpickr": "4.5.2",
     "font-awesome": "4.7.0",
-    "lodash": "4.17.11",
+    "lodash": "4.17.17",
     "oidc-client": "1.5.3",
     "preboot": "6.0.0-beta.6",
     "rxjs": "6.3.3",
